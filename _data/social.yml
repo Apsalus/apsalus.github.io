@@ -1,9 +1,9 @@
 - title: Email
-  url: mailto://allnight724@gmail.com
+  url: mailto:/allnight724@gmail.com
   icon: fas fa-envelope
 - title: Twitter
-  url: https://twitter.com/allnight724
-  icon: fab fa-twitter
+  url: https://www.notion.so/f59dc910952c4fb281463b10586b5a69
+  icon: fa-duotone fa-n
 - title: GitHub
   url: https://github.com/Apsalus
   icon: fab fa-github
