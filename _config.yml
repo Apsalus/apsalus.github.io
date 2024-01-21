@@ -1,7 +1,7 @@
 # Setup
 title: Not Pure Poole
 description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+url: https://apsalus.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: apsalus
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: apsalus
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://www.notion.so/f59dc910952c4fb281463b10586b5a69
+    - https://github.com/Apsalus/apsalus.github.io
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: apsalus
+  url: https://github.com/apsalus/
+  email: allnight724@gmail.com
